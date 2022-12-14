@@ -1,6 +1,6 @@
 import React from 'react';
 import {data} from '../data';
-import Navbar from './Navbar';
+import Navbar from './navbar';
 import MovieCard from './MovieCard';
 import { addMovies } from '../actions';
 
